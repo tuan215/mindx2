@@ -82,3 +82,16 @@ function findDuplicates(arr){
 }
 
 //7.  
+
+const arr=['face','zalo','face','gmail','zalo','zalo']
+let result={};
+for (let item of result){
+    count=0;
+    for(let item1 of result){
+        if( item === item1){
+            count ++;
+            result[item1]= count;
+        }
+    }
+}
+console.log(result);
