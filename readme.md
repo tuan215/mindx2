@@ -1,1 +1,3 @@
- Lam 7/11 bai
+buoi 1 :
+- da hoan thanh : 
+- chua hoan thanh :
