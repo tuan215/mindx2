@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ShopAppLogo{
+    background-color: #FAF096;
+    height: 395px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 40px;
+}
+.ShopAppLogo_img{
+    margin: 20px;
+    width: 133px;
+    height: 150px;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
